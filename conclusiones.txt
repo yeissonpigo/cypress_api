@@ -1,0 +1,13 @@
+E2E UI:
+About the exercise for UI testing with cypress on the website saucedemo.com, I found it extremely easy to identify 
+the css selectors since all the required elements had a data-test attribute on the html tags which helped a lot
+to identify the elements and make these test really reliable since they wouldn't fail. I am aware that in a real world 
+project selectors will not be as easy to identify, and there might be dynamic attributes that will make it even
+harder to identify and make stable tests. 
+
+API:
+Regarding API testing, I did not have enough time since I have responsibilities on my current job, but I can say
+that it was a really basic api testing since I was testing only the happy paths, but very other test cases could have
+been tested for the api service I chose to test (petstore.swagger.io), for example what happens if a pet has a duplicated
+id, or if updating a pet is really updating a register, or just creating a new one. More time would have been nice to have
+so I could really show off my api testing skills.
