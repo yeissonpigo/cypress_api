@@ -1,0 +1,20 @@
+{
+  "name": "uiautomation",
+  "version": "1.0.0",
+  "description": "This a technical test for devsu qa automation role",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yeisson Pinilla",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.12.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0"
+  }
+}

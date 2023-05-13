@@ -1,0 +1,18 @@
+{
+    "id": 9223372036854572000,
+    "category": {
+        "id": 0,
+        "name": "four legs pets"
+    },
+    "name": "devsu little doggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+        "id": 0,
+        "name": "devsu"
+        }
+    ],
+    "status": "available"
+    }
